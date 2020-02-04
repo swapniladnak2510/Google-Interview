@@ -34,4 +34,7 @@ Have you covered off edge cases?
 - [Big O](https://www.bigocheatsheet.com/)
 - [Algo cheetsheet](https://algs4.cs.princeton.edu/cheatsheet/)
 #### Leetcode
+#### Video 
+- [Data Structures](https://github.com/thepradip/JSDocSphinx-Documentation)
+- [Algorithm](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
