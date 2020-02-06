@@ -38,4 +38,5 @@ Have you covered off edge cases?
 #### Video 
 - [Data Structures](https://github.com/thepradip/JSDocSphinx-Documentation)
 - [Algorithm](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Gayle McDowell| interview tips](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 
