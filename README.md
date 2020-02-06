@@ -31,6 +31,7 @@ Code should be production ready style
 - Is your problem solving and coding speedy and efficient with your profound knowledge in CS fundamentals?
 Have you covered off edge cases?
 ### My preparation
+- [Coding-interview-university](https://github.com/jwasham/coding-interview-university#interview-process--general-interview-prep)
 - [Big O](https://www.bigocheatsheet.com/)
 - [Algo cheetsheet](https://algs4.cs.princeton.edu/cheatsheet/)
 #### Leetcode
